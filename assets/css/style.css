@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: url("../images/random_grey_variations.png");
+    font-family: Arial, Helvetica, sans-serif, "Helvetica Neue";
+    font-size: 18px;
+    line-height: 34px;
+    color: #777777;
+}
+
+.container {
+    width: 960px;
+}
