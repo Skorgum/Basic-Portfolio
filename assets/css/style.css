@@ -36,6 +36,12 @@ h3 {
     color: #4aaaa5;
 }
 
+h1 {
+    font-size: 30px;
+    line-height: 50px;
+    border-bottom: 3px solid #dddddd;
+}
+
 #logo {
     float: left;
     width: 250px;
@@ -90,6 +96,7 @@ footer {
     max-width: 960px;
     padding: 30px;
     margin: 0 0 40px;
+    overflow: auto;
 }
 
 .photo {
@@ -97,15 +104,11 @@ footer {
     width: 200px;
     height: auto;
     margin-top: 10px;
-    margin-right: 10px;
+    margin-right: 25px;
 }
 
-p {
-    float: left;
-}
-
-h2,
-h3 {
+h3,
+h2 {
     padding-bottom: 20px;
     margin-bottom: 15px;
     line-height: 22px;
