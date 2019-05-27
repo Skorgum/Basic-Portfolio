@@ -107,6 +107,11 @@ footer {
     margin-right: 25px;
 }
 
+.container p {
+    float: left;
+    overflow: auto;
+}
+
 h3,
 h2 {
     padding-bottom: 20px;
