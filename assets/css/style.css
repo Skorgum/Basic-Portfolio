@@ -108,7 +108,6 @@ footer {
 }
 
 .container p {
-    float: left;
     overflow: auto;
 }
 
